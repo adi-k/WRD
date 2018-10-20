@@ -10,6 +10,6 @@ To run the project:
 
 Features: 
 
-Dynamic and responsive animated cards each with a unique picture, json data (displayed on cards) fetched from external host. 
+Dynamic and responsive animated cards each with a unique picture(generated via external website=, json data (displayed on cards) fetched from external host. 
 Functional search bar. 
 Scrollable.
