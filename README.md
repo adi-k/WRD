@@ -13,3 +13,5 @@ Features:
 Dynamic and responsive animated cards each with a unique picture(generated via external website), json data (displayed on cards) fetched from external host. 
 Functional search bar. 
 Scrollable.
+
+Hosted --> https://wizardly-carson-816a12.netlify.com/
